@@ -1,0 +1,8 @@
+
+--- REPORT ---
+Customer: Hugo Alves
+Product: Banana
+Quantity Sale: 100
+Total Amount: 200.0
+Discount: 10.0
+Final Price: 190.0
